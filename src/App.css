@@ -2,3 +2,9 @@
   text-align: center;
 }
 
+footer{
+  bottom:0px;
+  position:absolute;
+  width:90%;
+  height:40px;
+}
